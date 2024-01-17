@@ -1,0 +1,22 @@
+{
+  "name": "espn-overunder-api",
+  "version": "1.0.0",
+  "description": "js project to query espn for betting odds and more ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickrinaldi88/espn-overunder-api.git"
+  },
+  "keywords": [
+    "espn"
+  ],
+  "author": "nick rinaldi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickrinaldi88/espn-overunder-api/issues"
+  },
+  "homepage": "https://github.com/nickrinaldi88/espn-overunder-api#readme"
+}
